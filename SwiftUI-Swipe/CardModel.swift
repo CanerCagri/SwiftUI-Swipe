@@ -7,7 +7,9 @@
 
 import SwiftUI
 
-struct CardModel {
+struct CardModel: Identifiable {
+    var id = UUID()
+    
     var name: String
     var age: Int
     var image: String

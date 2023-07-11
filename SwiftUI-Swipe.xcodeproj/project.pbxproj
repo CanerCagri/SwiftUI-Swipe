@@ -55,9 +55,9 @@
 			children = (
 				01C4C1C82A5D97C600AD8C2E /* SwiftUI_SwipeApp.swift */,
 				01C4C1CA2A5D97C600AD8C2E /* ContentView.swift */,
+				01C4C1D62A5D981A00AD8C2E /* CardModel.swift */,
 				01C4C1CC2A5D97C700AD8C2E /* Assets.xcassets */,
 				01C4C1CE2A5D97C700AD8C2E /* Preview Content */,
-				01C4C1D62A5D981A00AD8C2E /* CardModel.swift */,
 			);
 			path = "SwiftUI-Swipe";
 			sourceTree = "<group>";
